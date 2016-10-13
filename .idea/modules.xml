@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/man-csv.iml" filepath="$PROJECT_DIR$/.idea/modules/man-csv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/man-csv_main.iml" filepath="$PROJECT_DIR$/.idea/modules/man-csv_main.iml" group="man-csv" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/man-csv_test.iml" filepath="$PROJECT_DIR$/.idea/modules/man-csv_test.iml" group="man-csv" />
+    </modules>
+  </component>
+</project>
