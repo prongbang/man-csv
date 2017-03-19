@@ -1,7 +1,7 @@
 # Read CSV file to Beans
-<h4>CSV File Example</h4>
+### CSV File Example
 ![Screenhot](https://cdn-images-1.medium.com/max/1000/1*cFyP77KOQDljX7NE_uf-oA.png)
-<h4>Result</h4>
+### Result
 ```json
 [
   {
@@ -31,4 +31,4 @@
   }
 ]
 ```
-<h4><a href="https://medium.com/@prongbang/อ่านไฟล์-csv-ที่ใครบอกว่ายาก-ๆ-ให้เป็นเรื่องหมู-ๆ-a306f194ea64" target="_blank">Read more...</a></h4>
+[Read more...](https://medium.com/@prongbang/อ่านไฟล์-csv-ที่ใครบอกว่ายาก-ๆ-ให้เป็นเรื่องหมู-ๆ-a306f194ea64)
